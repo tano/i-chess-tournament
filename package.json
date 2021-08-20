@@ -1,0 +1,13 @@
+{
+  "name": "i-chess-tournament",
+  "version": "1.0.0",
+  "description": "test task",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
